@@ -68,13 +68,13 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 The following links include detailed descriptions within each GitHub repository:
 
-| 🚀 [Heart-Disease-Prediction-using-Machine-Learning](https://github.com/AkilsuryaS/Heart-disease-prediction/tree/main)| 👨🏻‍💻 [Loan Default Risk Analysis](https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis)| 
+| 🚀 [Heart Disease Prediction using Machine-Learning](https://github.com/AkilsuryaS/Heart-disease-prediction/tree/main)| 👨🏻‍💻 [Loan Default Risk Analysis](https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis)| 
 | :-:| :-:| 
 | [<img src = "https://github.com/AkilsuryaS/Heart-disease-prediction/blob/main/images/cover%20pic.jpeg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Heart-disease-prediction/tree/main)| [<img src = "https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis/blob/main/images/Cover%20pic.jpeg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis)
 
-| 🏭 [World-Development-Indicators-Co2-Emission-Vs-GDP](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [☎️ __Telco Customer Churn Prediction__](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| 🏭 [Food Vision Classification](https://github.com/AkilsuryaS/Food-vision-classification/blob/main/README.md)| [☎️ Customer Analytics](https://github.com/AkilsuryaS/Customer-Analytics)|
 | :-:| :-:| 
-| [<img src = "https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP/blob/main/images/main%20image.png" width = 500 height = 300/>](https://github.com/sujikathir/World-Development-Indicators-Co2-Emission-Vs-GDP)| [<img src = "https://github.com/sujikathir/Telco-Customer-Churn-Prediction/blob/main/Images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/sujikathir/Telco-Customer-Churn-Prediction)|
+| [<img src = "https://github.com/AkilsuryaS/Food-vision-classification/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Food-vision-classification/blob/main/README.md)| [<img src = "https://github.com/AkilsuryaS/Customer-Analytics/blob/main/images/Cover%20pic.jpeg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Customer-Analytics)|
 
 <hr style="border:0.01px solid blue">
 
