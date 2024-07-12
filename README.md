@@ -76,6 +76,10 @@ The following links include detailed descriptions within each GitHub repository:
 | :-:| :-:| 
 | [<img src = "https://github.com/AkilsuryaS/Food-vision-classification/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Food-vision-classification/blob/main/README.md)| [<img src = "https://github.com/AkilsuryaS/Customer-Analytics/blob/main/images/Cover%20pic.jpeg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Customer-Analytics)|
 
+| 🚀 [Dog Breed Classification](https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow)| 👨🏻‍💻 [Bulldozer Sales Prediction](https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction)| 
+| :-:| :-:| 
+| [<img src = "https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow)| [<img src = "https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction)
+
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> ..... </h2> 
