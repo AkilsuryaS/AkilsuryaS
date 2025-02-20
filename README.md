@@ -64,9 +64,3 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 
 
-
-| [<img src = "https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow)| [<img src = "https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction/blob/main/images/Cover%20pic.jpg" width = 500 height = 300/>](https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction)
-
-<hr style="border:0.01px solid blue">
-
-<h2 align = "center"> ..... </h2> 
