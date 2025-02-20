@@ -11,7 +11,7 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 
 🔍 I have strong practical and theoretical experience in the development of Machine Learning Models and Computer Vision.
 
-🚀 __I'm currently in the job market looking for a suitable role and would love to discuss any potential opportunities.__
+🚀 __I'm currently in the job market looking for a suitable role and would love to discuss any potential opportunities.__ __Email:akilsurya20399@gmail.com__
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
