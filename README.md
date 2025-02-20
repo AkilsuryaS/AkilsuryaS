@@ -1,15 +1,17 @@
  <h1 align = "center">Hi there, I'm Akilsurya Sivakumar 👋</h1>
 
-I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
+I'm passionate about __Machine Learning__, __Data Science__, __Generative AI__ & __Agentic AI__
 
 I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
-🔭 I hold a Masters Degree in Business Analytics with a specialisation in Data Science from UT Dallas and
+🔭 I hold a Masters Degree in Business Analytics with a specialization in Data Science from UT Dallas.
 
-I have 2+ years of experience building and deploying machine learning and deep learning models.
+💼 I have 2+ years of experience building and deploying machine learning and deep learning models.
 
-I have a strong practical and theoretical experience in the development of __Machine Learning Models__ and __Computer Vision__. 
+🔍 I have strong practical and theoretical experience in the development of Machine Learning Models and Computer Vision.
+
+🚀 I'm currently in the job market looking for a suitable role and would love to discuss any potential opportunities.
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
@@ -51,10 +53,9 @@ I have a strong practical and theoretical experience in the development of __Mac
 * *Llama Index*
 * *OpenAI API*
 * *Mixtral (LLM)*
-* *Llama 2 (LLM)*
-* *GPT - 3 (LLM)*
-* *GPT - 3.5 (LLM)*
-* *GPT - 4 (LLM)*
+* *Llama 3.2 (LLM)*
+* *Deepseek R1 (LLM)*
+* *GPT - 4o (LLM)*
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
