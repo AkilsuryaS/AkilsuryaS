@@ -52,7 +52,66 @@ I enjoy the full journey: understanding the problem, designing the data and mode
 | [DeepTalk.ai](https://github.com/AkilsuryaS/DeepTalk.ai) | An interactive chatbot designed to make deep learning concepts easier to explore and learn. | Python · PyTorch |
 | [VideoGist](https://github.com/AkilsuryaS/VideoGist) | A multilingual YouTube summarizer with transcription, recipe extraction, and an interactive Streamlit interface. | Python · Streamlit · OpenAI · Groq |
 | [Food Vision Classification](https://github.com/AkilsuryaS/Food-vision-classification) | A transfer-learning image classifier trained to recognize 101 food categories from the Food101 dataset. | TensorFlow/Keras · CNNs · Jupyter |
-| Biohub Cell Tracking | A modular 3D+t microscopy baseline that detects cell centroids and links them across time in zebrafish volumes. | Python · NumPy · SciPy · Zarr · scikit-image |
+
+## Project archive
+
+<details>
+<summary><strong>Browse all public projects and repositories</strong></summary>
+
+<p>This archive includes project work, experiments, notebooks, and learning repositories.</p>
+
+<table>
+<tr><td><a href="https://github.com/AkilsuryaS/adk-samples">adk-samples</a></td><td><a href="https://github.com/AkilsuryaS/agents-course">agents-course</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/ai-negotiation-coach">ai-negotiation-coach</a></td><td><a href="https://github.com/AkilsuryaS/AIQToolkit">AIQToolkit</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/annotated_deep_learning_paper_implementations">annotated_deep_learning_paper_implementations</a></td><td><a href="https://github.com/AkilsuryaS/awesome-llm-apps">awesome-llm-apps</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Bulldozer-sales-price-prediction">Bulldozer-sales-price-prediction</a></td><td><a href="https://github.com/AkilsuryaS/clustering_analysis">clustering_analysis</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Complete-Data-Science-With-Machine-Learning-And-NLP-2024">Complete-Data-Science-With-Machine-Learning-And-NLP-2024</a></td><td><a href="https://github.com/AkilsuryaS/Computer-Vision-Matarials">Computer-Vision-Matarials</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/coursera-deep-learning">coursera-deep-learning</a></td><td><a href="https://github.com/AkilsuryaS/cs249r_book">cs249r_book</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Customer-Analytics">Customer-Analytics</a></td><td><a href="https://github.com/AkilsuryaS/Data-Analysis">Data-Analysis</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Data-Analysis-and-Machine-Learning-Projects">Data-Analysis-and-Machine-Learning-Projects</a></td><td><a href="https://github.com/AkilsuryaS/Data-Analytics-Projects">Data-Analytics-Projects</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/DataScienceTools">DataScienceTools</a></td><td><a href="https://github.com/AkilsuryaS/Datasets">Datasets</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/deep-learning-coursera">deep-learning-coursera</a></td><td><a href="https://github.com/AkilsuryaS/deep-learning-models">deep-learning-models</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Deep-Learning-Specialization-Coursera">Deep-Learning-Specialization-Coursera</a></td><td><a href="https://github.com/AkilsuryaS/Deepseek-AI-Code-Companion">Deepseek-AI-Code-Companion</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Deepseek-code-companion">Deepseek-code-companion</a></td><td><a href="https://github.com/AkilsuryaS/DeepTalk.ai">DeepTalk.ai</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/dlaicourse">dlaicourse</a></td><td><a href="https://github.com/AkilsuryaS/dmls-book">dmls-book</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow">Dog-Breed-Classification-using-TensorFlow</a></td><td><a href="https://github.com/AkilsuryaS/EasyApplyBot">EasyApplyBot</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/EdgeTAM">EdgeTAM</a></td><td><a href="https://github.com/AkilsuryaS/EXPLORATORY-DATA-ANALYSIS---RETAIL-">EXPLORATORY-DATA-ANALYSIS---RETAIL-</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/fastbook">fastbook</a></td><td><a href="https://github.com/AkilsuryaS/FbProphet">FbProphet</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Food-vision-classification">Food-vision-classification</a></td><td><a href="https://github.com/AkilsuryaS/GenAI_Agents">GenAI_Agents</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/generative-ai-for-beginners">generative-ai-for-beginners</a></td><td><a href="https://github.com/AkilsuryaS/github_repo_bot">github_repo_bot</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/GrocerySimulation">GrocerySimulation</a></td><td><a href="https://github.com/AkilsuryaS/Hands-On-Large-Language-Models">Hands-On-Large-Language-Models</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Heart-disease-prediction">Heart-disease-prediction</a></td><td><a href="https://github.com/AkilsuryaS/Individual-household-electric-power-consumption-Data-Set-">Individual-household-electric-power-consumption-Data-Set-</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/internal-git-mcp">internal-git-mcp</a></td><td><a href="https://github.com/AkilsuryaS/Internship_tasks">Internship_tasks</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/lane-detection">lane-detection</a></td><td><a href="https://github.com/AkilsuryaS/langchain">langchain</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/linkedIn_auto_jobs_applier_with_AI">linkedIn_auto_jobs_applier_with_AI</a></td><td><a href="https://github.com/AkilsuryaS/llm-engineer-toolkit">llm-engineer-toolkit</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/LLM101n">LLM101n</a></td><td><a href="https://github.com/AkilsuryaS/LLMs-from-scratch">LLMs-from-scratch</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Loan-Default-Risk-Analysis">Loan-Default-Risk-Analysis</a></td><td><a href="https://github.com/AkilsuryaS/LSTM-Neural-Network-for-Time-Series-Prediction">LSTM-Neural-Network-for-Time-Series-Prediction</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/machine-learning-roadmap">machine-learning-roadmap</a></td><td><a href="https://github.com/AkilsuryaS/Made-With-ML">Made-With-ML</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/mcp-agent">mcp-agent</a></td><td><a href="https://github.com/AkilsuryaS/mcp-chatbot">mcp-chatbot</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/mcp-use">mcp-use</a></td><td><a href="https://github.com/AkilsuryaS/ml-interviews-book">ml-interviews-book</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/ML-YouTube-Courses">ML-YouTube-Courses</a></td><td><a href="https://github.com/AkilsuryaS/MLOps">MLOps</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/MLSys">MLSys</a></td><td><a href="https://github.com/AkilsuryaS/Movie-Recommender-System-Using-Machine-Learning">Movie-Recommender-System-Using-Machine-Learning</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/multi-agent-job-application-helper">multi-agent-job-application-helper</a></td><td><a href="https://github.com/AkilsuryaS/My_first_proj">My_first_proj</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/nanoVLM">nanoVLM</a></td><td><a href="https://github.com/AkilsuryaS/Netflix-Recommender-System">Netflix-Recommender-System</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/ngram">ngram</a></td><td><a href="https://github.com/AkilsuryaS/notebooks">notebooks</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/OmniParser">OmniParser</a></td><td><a href="https://github.com/AkilsuryaS/Pose-Estimation-Clean">Pose-Estimation-Clean</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Prompt-Engineering-Guide">Prompt-Engineering-Guide</a></td><td><a href="https://github.com/AkilsuryaS/prophet">prophet</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/prophet_forecasting">prophet_forecasting</a></td><td><a href="https://github.com/AkilsuryaS/pytorch-deep-learning">pytorch-deep-learning</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/PyTorch-Introduction">PyTorch-Introduction</a></td><td><a href="https://github.com/AkilsuryaS/queueing_theory">queueing_theory</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Roadmap-To-Learn-Agentic-AI">Roadmap-To-Learn-Agentic-AI</a></td><td><a href="https://github.com/AkilsuryaS/sanjsvk">sanjsvk</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/segment-anything">segment-anything</a></td><td><a href="https://github.com/AkilsuryaS/showcase">showcase</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/simple-local-rag">simple-local-rag</a></td><td><a href="https://github.com/AkilsuryaS/smolagents">smolagents</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Sparks-Foundation-Tasks">Sparks-Foundation-Tasks</a></td><td><a href="https://github.com/AkilsuryaS/stdp-mnist">stdp-mnist</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/supervision">supervision</a></td><td><a href="https://github.com/AkilsuryaS/swarm">swarm</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Swiggy_challenge">Swiggy_challenge</a></td><td><a href="https://github.com/AkilsuryaS/t81_558_deep_learning">t81_558_deep_learning</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/tensorflow-deep-learning">tensorflow-deep-learning</a></td><td><a href="https://github.com/AkilsuryaS/The-Grand-Complete-Data-Science-Materials">The-Grand-Complete-Data-Science-Materials</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/Time-series">Time-series</a></td><td><a href="https://github.com/AkilsuryaS/Time-Series-Forecasting">Time-Series-Forecasting</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/TimeSeriesAnalysisWithPython">TimeSeriesAnalysisWithPython</a></td><td><a href="https://github.com/AkilsuryaS/trackers">trackers</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/tslearn">tslearn</a></td><td><a href="https://github.com/AkilsuryaS/VideoGist">VideoGist</a></td></tr>
+<tr><td><a href="https://github.com/AkilsuryaS/website">website</a></td><td><a href="https://github.com/AkilsuryaS/zero-to-mastery-ml">zero-to-mastery-ml</a></td></tr>
+</table>
+
+</details>
 
 ## Skills & tools
 
