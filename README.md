@@ -47,7 +47,7 @@ I enjoy the full journey: understanding the problem, designing the data and mode
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Amex Agentic Chatbot](https://github.com/AkilsuryaS/mcp-chatbot) | An MCP-powered chatbot where an LLM discovers and calls tools for card search, eligibility, rewards, and spending questions. | Python · FastAPI · FastMCP · OpenAI · Docker |
+| [Agentic MCP Chatbot](https://github.com/AkilsuryaS/mcp-chatbot) | An MCP-powered chatbot where an LLM discovers and calls tools for card search, eligibility, rewards, and spending questions. | Python · FastAPI · FastMCP · OpenAI · Docker |
 | [Offline Partner Assistant](https://github.com/AkilsuryaS/Swiggy_challenge) | Small, fully offline models for Hinglish command parsing, smart replies, and address parsing, exported to ONNX and INT8-quantized. | PyTorch · ONNX · NLP · Edge AI |
 | [DeepTalk.ai](https://github.com/AkilsuryaS/DeepTalk.ai) | An interactive chatbot designed to make deep learning concepts easier to explore and learn. | Python · PyTorch |
 | [VideoGist](https://github.com/AkilsuryaS/VideoGist) | A multilingual YouTube summarizer with transcription, recipe extraction, and an interactive Streamlit interface. | Python · Streamlit · OpenAI · Groq |
