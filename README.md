@@ -85,11 +85,8 @@ I enjoy the full journey: understanding the problem, designing the data and mode
 
 ## Research & learning interests
 
-- Reliable agentic systems that use tools and data instead of guessing.
-- Efficient and private AI that can run offline or on resource-constrained devices.
-- Computer vision for scientific and real-world imaging problems.
-- Multilingual and low-resource NLP, especially for practical user experiences.
-- Making machine learning more approachable through interactive explanations and useful demos.
+- Making AI models run efficiently on any device.
+- AI hardware and hardware–software co-design for efficient intelligent systems.
 
 ## Let’s connect
 
