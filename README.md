@@ -91,17 +91,6 @@ I enjoy the full journey: understanding the problem, designing the data and mode
 - Multilingual and low-resource NLP, especially for practical user experiences.
 - Making machine learning more approachable through interactive explanations and useful demos.
 
-## GitHub at a glance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkilsuryaS&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="Akilsurya's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilsuryaS&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Akilsurya's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AkilsuryaS&hide_border=true&theme=tokyonight" alt="Akilsurya's GitHub contribution streak" />
-</div>
-
 ## Let’s connect
 
 If you’re working on applied AI, machine learning systems, efficient inference, or research-oriented software, I’d be happy to connect and learn from your work.
